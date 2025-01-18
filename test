@@ -738,7 +738,7 @@ local autofarmplants_speed = Section1:AddSlider("Slider",
 {
     Title = "TweenSpeed",
     Description = "",
-    Default = 16,
+    Default = 23,
     Min = 10,
     Max = 23,
     Rounding = 0.5,
